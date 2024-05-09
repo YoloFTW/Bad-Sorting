@@ -33,11 +33,11 @@
 
 ## About <a name = "about"></a>
 
-Tired of your wimpy sorting algorithms getting the job done too darn fast? Or maybe you're fed up of reaching for that elusive O(1) algorithim. Well you should try bad-sorting! the npm package for those who like their sorts served with the heat death of the universe!
+Tired of your wimpy sorting algorithms getting the job done too darn fast? Or maybe you're fed up of reaching for that elusive O(1) algorithim. Well you should try Bad-Sorting! the npm package for those who like their sorts served with the heat death of the universe!
 
 This glorious collection of terrible, horrible, no good, very bad sorting techniques (affectionately called "algorithms") is guaranteed to modify your data. For better or for worse
 
-Why bad-sorting?
+Why Bad-Sorting?
 
 - Because why not? Normality is so boring.
 - Need a good laugh? Watch your CPU cry as it wrestles with bogosort.
@@ -57,7 +57,7 @@ npm i @yoloftw/bad-sorting
 
 ## Usage <a name="usage"></a>
 
-Sure, you installed bad-sorting, but how do you use it? Don't worry, I've got you covered.
+Sure, you installed Bad-Sorting, but how do you use it? Don't worry, I've got you covered.
 
 </br>
 
@@ -205,7 +205,7 @@ Sleep Sorts time complexity is a tough one as unlike other algorithims that are 
 
 ## Disclaimer <a name = "Disclaimer"></a>
 
-These sorting systems utilize highly experimental and down right questionable *"algorithms"*. Potential side effects include interdimensional tears, sentient toaster uprisings, and a mild case of the Mondays. Use at your own risk. We're not responsible for any existential crises caused by questioning the nature of sorting after using bad-sorting.
+These sorting systems utilize highly experimental and down right questionable *"algorithms"*. Potential side effects include interdimensional tears, sentient toaster uprisings, and a mild case of the Mondays. Use at your own risk. We're not responsible for any existential crises caused by questioning the nature of sorting after using Bad-Sorting.
 
 </br>
 
