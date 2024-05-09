@@ -64,7 +64,7 @@ Sure, you installed Bad-Sorting, but how do you use it? Don't worry, I've got yo
 First things first you've got pick your poison and import it into your project. 
 
 ```js
-const { BogoSort } = require('@yoloftw/Bad-Sorting');
+const { BogoSort } = require('@yoloftw/bad-sorting');
 ```
 
 </br>
@@ -89,7 +89,7 @@ console.log(sorted);
 Ah, Bogo Sort, the algorithm that embodies the spirit of "throw it at the wall and see if it sticks. Bogo Sort does away with the hard work of itterating over an array and offloads the sorting to the checking algorithim by randomising the array until it is sorted. Heres how to use it.
 
 ```js
-const { BogoSort } = require('@yoloftw/Bad-Sorting');
+const { BogoSort } = require('@yoloftw/bad-sorting');
 
 let arr = [5, 18, 3, 8, 14, 2, 13, 16];
 
@@ -108,7 +108,7 @@ Bogosort boasts a time complexity of O(n * n!), which basically means it could t
 In a communist array everyone is equal. Communism Sort redistributes the wealth to the less fortunate elements resulting in an array that is perfectly equal and therefore sorted. 
 
 ```js
-const { CommunismSort } = require('@yoloftw/Bad-Sorting');
+const { CommunismSort } = require('@yoloftw/bad-sorting');
 
 let arr = [1, 6, 4, 10, 13];
 
@@ -131,7 +131,7 @@ From the [Intelligent Sort page](https://www.dangermouse.net/esoteric/intelligen
 >The probability of the original input list being in the exact order it's in is 1/(n!). There is such a small likelihood of this that it's clearly absurd to say that this happened by chance, so it must have been consciously put in that order by an intelligent Sorter. Therefore it's safe to assume that it's already optimally Sorted in some way that transcends our naïve mortal understanding of "ascending order". Any attempt to change that order to conform to our own preconceptions would actually make it less sorted.
 
 ```js
-const { IntelligentSort } = require('@yoloftw/Bad-Sorting');
+const { IntelligentSort } = require('@yoloftw/bad-sorting');
 
 let arr = [13, 16, 4, 8, 3, 14, 2];
 
@@ -151,7 +151,7 @@ Intelligent Sort is one of those elusive constant time algorithims and therefore
 Miracle Sort embraces the power of chance (and cosmic rays) to achieve the impossible. Miracle Sort waits for cosmic rays to flip enough bits in memory for the array to be sorted. 
 
 ```js
-const { MiracleSort } = require('@yoloftw/Bad-Sorting');
+const { MiracleSort } = require('@yoloftw/bad-sorting');
 
 let arr = [13, 16, 4, 8, 3, 14, 2];
 
@@ -170,7 +170,7 @@ Due to Miracle Sort waiting for, well, a miracle the time complexity is a stagge
 Quantum Bogo Sort assumes that Hugh Everett guy was correct that that there are infact infinite parrallel universes. Quantum Bogo Sort checks if the array is sorted and if not destroys the universe. The only remaining universe is where the array is sorted
 
 ```js
-const { QuantumBogoSort } = require('@yoloftw/Bad-Sorting');
+const { QuantumBogoSort } = require('@yoloftw/bad-sorting');
 
 let arr = [6, 19, 5, 1, 3, 8];
 
@@ -189,7 +189,7 @@ In the universe where the array was sorted, it was only checked once. Therefore 
 Sleep Sort takes a laid-back approach to sorting. Instead of furiously comparing elements it takes a step back and waits for the problem to sort itself.
 
 ```js
-const { SleepSort } = require('@yoloftw/Bad-Sorting');
+const { SleepSort } = require('@yoloftw/bad-sorting');
 
 let arr = [7, 2, 20, 5, 15, 3];
 
