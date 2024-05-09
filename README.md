@@ -86,7 +86,7 @@ console.log(sorted);
 
 ## Bogo Sort <a name="Bogo-Sort"></a>
 
-Ah, Bogo Sort, the algorithm that embodies the spirit of "throw it at the wall and see if it sticks. Bogo Sort does away with the hard work of itterating over an array and offloads the sorting to the checking algorithim by randomising the array until it is sorted. Heres how to use it.
+Ah, Bogo Sort, the algorithm that embodies the spirit of "throw it at the wall and see if it sticks". Bogo Sort does away with the hard work of itterating over an array and offloads the sorting to the checking algorithim by randomising the array until it is sorted. Heres how to use it.
 
 ```js
 const { BogoSort } = require('@yoloftw/bad-sorting');
